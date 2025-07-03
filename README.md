@@ -1,9 +1,13 @@
 # langgraph-tutorial
 
 ---
-## memoryhitl.py -  Memory and Human in the loop Demo
-## memoryandloop.py - memory demo
-## HITL.py - Human in the loop demo
+## memoryhitl.py 
+                  - Memory and Human in the loop Demo
+                  - bonus  :  Live stock price tool included
+## memoryandloop.py
+                  - memory demo
+## HITL.py 
+                  - Human in the loop demo
 
 Exploring **LangGraph**, **LangSmith**, and **LangChain**
 
