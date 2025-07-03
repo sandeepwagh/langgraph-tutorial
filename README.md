@@ -31,7 +31,7 @@ GOOGLE_API_KEY=your‑gemini‑api‑key
 
 
 ✅ LangSmith API key (observability & evaluation)
-Log in to LangSmith, navigate to Settings → API Keys, and generate a Personal Access Token or Service Key.
+Log in to [LangSmith](https://smith.langchain.com/), navigate to Settings → API Keys, and generate a Personal Access Token or Service Key.
 
 Then add to your .env file:
 ```
